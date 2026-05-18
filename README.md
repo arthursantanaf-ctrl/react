@@ -1,1 +1,1 @@
-Projeto feito em sala de aula, odne passo a passo estamos desenvolvendo um app usando a biblioteca React
+Projeto feito em sala de aula, onde passo a passo estamos desenvolvendo um app usando a biblioteca React
